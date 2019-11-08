@@ -28,7 +28,7 @@ public class BaseTest {
 	Page page;
 	ExcelReader excelReader;
 	String filePath = System.getProperty("user.dir")+"\\resources\\TestData.xlsx";
-	Logger logger = Logger.getLogger(BaseTest.class);
+	static Logger logger = Logger.getLogger(BaseTest.class);
 	public BaseTest() {
 		String log4jConfigFile = System.getProperty("user.dir")+ "\\resources\\log4j.properties";
         PropertyConfigurator.configure(log4jConfigFile);

@@ -5,23 +5,27 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
+import org.apache.log4j.Logger;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import com.orangehrm.Tests.LoginTest;
 
 public class ExcelReader {
 
 	XSSFWorkbook wb = null;
 	XSSFSheet sheet = null;
 	//String filePath = System.getProperty("user.dir")+"\\resources\\TestData.xlsx";
-	
+	static Logger logger = Logger.getLogger(ExcelReader.class);
 	public ExcelReader(String filePath)
 	{
+		
 		File file = new File(filePath);//File reading path is provided.
 		try {
 			FileInputStream	 fis = new FileInputStream(file);
 			 try {
 				 wb = new XSSFWorkbook(fis);
-				System.out.println("Workbook loaded");
+				 logger.info("Workbook loaded");
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -40,7 +44,7 @@ public class ExcelReader {
 			sheet = wb.getSheetAt(sheetNum);
 			 data = sheet.getRow(rowNum).getCell(colNum).getStringCellValue();
 			}
-			System.out.println("data value from excel is: "+ data);
+			 logger.info("data value from excel is: "+ data);
 			return data;
 		}
 		
