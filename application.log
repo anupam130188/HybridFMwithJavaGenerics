@@ -1,0 +1,119 @@
+2019-11-07 15:45:37 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 15:45:39 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 15:45:43 INFO  BaseTest:52 - Maximizing window
+2019-11-07 15:45:43 INFO  LoginTest:22 - C:\Users\anchandan\JavaFMDev\HybridFMJavaGenerics
+2019-11-07 15:45:43 INFO  LoginTest:24 - Title is: OrangeHRM
+2019-11-07 15:45:43 INFO  BaseTest:61 - Driver close
+2019-11-07 15:45:44 INFO  BaseTest:63 - Test script complete
+2019-11-07 15:45:44 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 15:45:46 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 15:45:50 INFO  BaseTest:52 - Maximizing window
+2019-11-07 15:45:50 INFO  LoginTest:33 - Header is: OrangeHRM, Inc
+2019-11-07 15:45:50 INFO  BaseTest:61 - Driver close
+2019-11-07 15:45:51 INFO  BaseTest:63 - Test script complete
+2019-11-07 15:45:51 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 15:45:53 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 15:45:58 INFO  BaseTest:52 - Maximizing window
+2019-11-07 15:46:03 INFO  LoginTest:43 - HomePage header is: Welcome Admin
+2019-11-07 15:46:03 INFO  BaseTest:61 - Driver close
+2019-11-07 15:46:04 INFO  BaseTest:63 - Test script complete
+2019-11-07 16:25:01 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 16:25:05 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 16:25:09 INFO  BaseTest:52 - Maximizing window
+2019-11-07 16:25:10 INFO  LoginTest:22 - C:\Users\anchandan\JavaFMDev\HybridFMJavaGenerics
+2019-11-07 16:25:10 INFO  LoginTest:24 - Title is: OrangeHRM
+2019-11-07 16:25:10 INFO  BaseTest:61 - Driver close
+2019-11-07 16:25:11 INFO  BaseTest:63 - Test script complete
+2019-11-07 16:25:11 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 16:25:13 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 16:25:18 INFO  BaseTest:52 - Maximizing window
+2019-11-07 16:25:18 INFO  LoginTest:33 - Header is: OrangeHRM, Inc
+2019-11-07 16:25:18 INFO  BaseTest:61 - Driver close
+2019-11-07 16:25:19 INFO  BaseTest:63 - Test script complete
+2019-11-07 16:25:19 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 16:25:21 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 16:25:26 INFO  BaseTest:52 - Maximizing window
+2019-11-07 16:25:31 INFO  LoginTest:43 - HomePage header is: Welcome Admin
+2019-11-07 16:25:31 INFO  BaseTest:61 - Driver close
+2019-11-07 16:25:32 INFO  BaseTest:63 - Test script complete
+2019-11-07 16:26:28 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 16:26:30 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 16:26:35 INFO  BaseTest:52 - Maximizing window
+2019-11-07 16:26:35 INFO  LoginTest:22 - C:\Users\anchandan\JavaFMDev\HybridFMJavaGenerics
+2019-11-07 16:26:35 INFO  LoginTest:24 - Title is: OrangeHRM
+2019-11-07 16:26:35 INFO  BaseTest:61 - Driver close
+2019-11-07 16:26:36 INFO  BaseTest:63 - Test script complete
+2019-11-07 16:26:36 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 16:26:38 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 16:26:42 INFO  BaseTest:52 - Maximizing window
+2019-11-07 16:26:42 INFO  LoginTest:33 - Header is: OrangeHRM, Inc
+2019-11-07 16:26:42 INFO  BaseTest:61 - Driver close
+2019-11-07 16:26:43 INFO  BaseTest:63 - Test script complete
+2019-11-07 16:26:43 INFO  BaseTest:40 - Chrome driver initialized
+2019-11-07 16:26:45 INFO  BaseTest:50 - Opening Orange HRM url
+2019-11-07 16:26:49 INFO  BaseTest:52 - Maximizing window
+2019-11-07 16:26:54 INFO  LoginTest:43 - HomePage header is: Welcome Admin
+2019-11-07 16:26:54 INFO  BaseTest:61 - Driver close
+2019-11-07 16:26:55 INFO  BaseTest:63 - Test script complete
+2019-11-08 00:46:48 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:46:52 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:46:55 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:46:56 INFO  BaseTest:63 - Driver close
+2019-11-08 00:46:57 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:46:57 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:46:58 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:47:02 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:47:02 INFO  BaseTest:63 - Driver close
+2019-11-08 00:47:03 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:47:03 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:47:05 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:47:09 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:47:09 INFO  BaseTest:63 - Driver close
+2019-11-08 00:47:10 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:48:17 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:48:19 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:48:24 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:48:24 INFO  BaseTest:63 - Driver close
+2019-11-08 00:48:25 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:48:25 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:48:27 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:48:30 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:48:31 INFO  BaseTest:63 - Driver close
+2019-11-08 00:48:32 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:48:32 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:48:34 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:48:37 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:48:37 INFO  BaseTest:63 - Driver close
+2019-11-08 00:48:38 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:49:15 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:49:17 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:49:21 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:49:21 INFO  BaseTest:63 - Driver close
+2019-11-08 00:49:22 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:49:22 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:49:24 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:49:28 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:49:28 INFO  BaseTest:63 - Driver close
+2019-11-08 00:49:29 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:53:03 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:53:05 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:53:09 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:53:09 INFO  BaseTest:63 - Driver close
+2019-11-08 00:53:10 INFO  BaseTest:65 - Test script complete
+2019-11-08 00:53:10 INFO  BaseTest:42 - Chrome driver initialized
+2019-11-08 00:53:12 INFO  BaseTest:52 - Opening Orange HRM url
+2019-11-08 00:53:16 INFO  BaseTest:54 - Maximizing window
+2019-11-08 00:53:16 INFO  BaseTest:63 - Driver close
+2019-11-08 00:53:17 INFO  BaseTest:65 - Test script complete
+2019-11-08 01:08:13 INFO  BaseTest:44 - Chrome driver initialized
+2019-11-08 01:08:15 INFO  BaseTest:54 - Opening Orange HRM url
+2019-11-08 01:08:20 INFO  BaseTest:56 - Maximizing window
+2019-11-08 01:08:25 INFO  LoginTest:45 - HomePage header is: Welcome Admin
+2019-11-08 01:08:25 INFO  BaseTest:65 - Driver close
+2019-11-08 01:08:27 INFO  BaseTest:67 - Test script complete
+2019-11-08 01:34:12 INFO  BaseTest:44 - Chrome driver initialized
+2019-11-08 01:34:15 INFO  BaseTest:54 - Opening Orange HRM url
+2019-11-08 01:34:18 INFO  BaseTest:56 - Maximizing window
+2019-11-08 01:34:21 INFO  LoginTest:45 - HomePage header is: Welcome Admin
+2019-11-08 01:34:21 INFO  BaseTest:65 - Driver close
+2019-11-08 01:34:22 INFO  BaseTest:67 - Test script complete
