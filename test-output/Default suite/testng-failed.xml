@@ -6,10 +6,8 @@
       <class name="com.orangehrm.Tests.LoginTest">
         <methods>
           <include name="setUpTest"/>
-          <include name="verifyLoginPageTitleTest"/>
           <include name="verifyLoginTest"/>
           <include name="tearDown"/>
-          <include name="verifyLoginPageHeaderTest"/>
         </methods>
       </class> <!-- com.orangehrm.Tests.LoginTest -->
     </classes>
