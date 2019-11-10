@@ -14,7 +14,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import com.orangehrm.Tests.LoginTest;
 
-public class ExcelReader extends ExcelData{
+public class ExcelReader extends ExcelData {
 
 	static XSSFWorkbook wb = null;
 	static XSSFSheet sheet = null;
@@ -93,13 +93,13 @@ public class ExcelReader extends ExcelData{
 		}
 	}
 
-	public static String getSheetName(int sheetNum)
-	{
+	public static String getSheetName(int sheetNum) {
 		String sheetName = wb.getSheetName(sheetNum);
-		
+
 		return sheetName;
-		
+
 	}
+
 	public static String getCellData(String sheetName, int colNum, int rowNum) {
 		try {
 			if (rowNum <= 0)

@@ -1,4 +1,5 @@
 package com.orangehrm.Tests;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
@@ -7,7 +8,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
-
 
 import com.orangehrm.pages.BasePage;
 import com.orangehrm.pages.Page;
@@ -27,14 +27,15 @@ public class BaseTest {
 	WebDriver driver;
 	Page page;
 	ExcelReader excelReader;
-	//String filePath = System.getProperty("user.dir")+"\\resources\\TestData.xlsx";
+	// String filePath =
+	// System.getProperty("user.dir")+"\\resources\\TestData.xlsx";
 	static Logger logger = Logger.getLogger(BaseTest.class);
+
 	public BaseTest() {
-		String log4jConfigFile = System.getProperty("user.dir")+ "\\resources\\log4j.properties";
-        PropertyConfigurator.configure(log4jConfigFile);
+		String log4jConfigFile = System.getProperty("user.dir") + "\\resources\\log4j.properties";
+		PropertyConfigurator.configure(log4jConfigFile);
 	}
-	
-	
+
 	@BeforeMethod
 	@Parameters(value = { "browser" })
 	public void setUpTest(String browser) {
@@ -44,7 +45,7 @@ public class BaseTest {
 			driver = new ChromeDriver();
 		} else if (browser.equals("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
-			
+
 			logger.info("Firefox driver initialized");
 			driver = new FirefoxDriver();
 		} else {

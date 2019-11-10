@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 public class BasePage extends Page {
 
 	public BasePage(WebDriver driver) {
-		super(driver);		
+		super(driver);
 	}
 
 	@Override
@@ -24,26 +24,24 @@ public class BasePage extends Page {
 
 	@Override
 	public WebElement getElement(By locator) {
-	WebElement element = null;
-	try {
-		 element = driver.findElement(locator);
-	}
-	catch (Exception e)
-	{
-		System.out.println("Error occurred during element identification: "+ locator.toString());
-		e.printStackTrace();
-	}
-	return element;
+		WebElement element = null;
+		try {
+			element = driver.findElement(locator);
+		} catch (Exception e) {
+			System.out.println("Error occurred during element identification: " + locator.toString());
+			e.printStackTrace();
+		}
+		return element;
 	}
 
 	@Override
 	public void waitForElementPresent(By locator) {
-	try {
-		wait.until(ExpectedConditions.presenceOfElementLocated(locator));
-	} catch (Exception e) {
-		System.out.println("Element presence not found: "+ locator.toString());
-		e.printStackTrace();
-	}
+		try {
+			wait.until(ExpectedConditions.presenceOfElementLocated(locator));
+		} catch (Exception e) {
+			System.out.println("Element presence not found: " + locator.toString());
+			e.printStackTrace();
+		}
 	}
 
 	@Override
@@ -51,7 +49,7 @@ public class BasePage extends Page {
 		try {
 			wait.until(ExpectedConditions.titleContains(title));
 		} catch (Exception e) {
-			System.out.println("Title not loaded succesfully: "+ title);
+			System.out.println("Title not loaded succesfully: " + title);
 			e.printStackTrace();
 		}
 	}
