@@ -9,10 +9,13 @@
 
 	<test name="Orange HRM tests on chrome"> <!-- information about tests -->
 		<parameter name="browser" value="chrome" />
+	<!-- <parameter name="browser" value="firefox" /> -->
 		<!-- <parameter name="username" value="testuser" />
 		<parameter name="password" value="testpassword" /> -->
 		<classes>
-			<class name="com.orangehrm.Tests.LoginTest" />
+<!-- 	<class name="com.orangehrm.Tests.LoginTest" />
+	<class name="com.orangehrm.Tests.HomePageTest" /> -->
+			<class name="com.orangehrm.Tests.OTPTesting" />	
 		</classes>
 	</test>
 	

@@ -23,7 +23,7 @@ public abstract class Page {
 	
 	public abstract String getPageHeader(By locator);
 	
-	public abstract WebElement getElement(By locator);
+	public abstract WebElement getElement(By locator) throws Exception;
 	
 	public abstract void waitForElementPresent(By locator);
 	

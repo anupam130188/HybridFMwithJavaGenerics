@@ -34,6 +34,7 @@ public class BaseTest {
 	public BaseTest() {
 		String log4jConfigFile = System.getProperty("user.dir") + "\\resources\\log4j.properties";
 		PropertyConfigurator.configure(log4jConfigFile);
+		excelReader = new ExcelReader(excelReader.filePath);
 	}
 
 	@BeforeMethod
@@ -52,18 +53,20 @@ public class BaseTest {
 			logger.info("No Browser initialized");
 		}
 		logger.info("Opening Orange HRM url");
-		driver.get("https://opensource-demo.orangehrmlive.com/index.php/auth/login");
+		//driver.get("https://opensource-demo.orangehrmlive.com/index.php/auth/login");
+		driver.get("https://www.microsoft.com/en-in/");
 		logger.info("Maximizing window");
-		driver.manage().window().fullscreen();
+		//driver.manage().window().fullscreen();
+		driver.manage().window().maximize();
 		// this line of code is going to call constructor of Page class
 		page = new BasePage(driver);
-		excelReader = new ExcelReader(excelReader.filePath);
+		
 	}
 
 	@AfterMethod
 	public void tearDown() {
 		logger.info("Driver close");
-		driver.quit();
+	//	driver.quit();
 		logger.info("Test script complete");
 	}
 }

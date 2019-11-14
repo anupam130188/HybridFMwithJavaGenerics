@@ -600,3 +600,335 @@
 2019-11-10 23:04:44 INFO  LoginTest:66 - HomePage header is: Welcome Admin
 2019-11-10 23:04:44 INFO  BaseTest:64 - Driver close
 2019-11-10 23:04:45 INFO  BaseTest:66 - Test script complete
+2019-11-12 19:42:57 INFO  BaseTest:44 - Chrome driver initialized
+2019-11-12 19:43:02 INFO  BaseTest:54 - Opening Orange HRM url
+2019-11-12 19:43:04 INFO  BaseTest:57 - Maximizing window
+2019-11-12 19:43:06 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 19:43:07 INFO  BaseTest:66 - Driver close
+2019-11-12 19:43:08 INFO  BaseTest:68 - Test script complete
+2019-11-12 19:43:08 INFO  BaseTest:44 - Chrome driver initialized
+2019-11-12 19:43:10 INFO  BaseTest:54 - Opening Orange HRM url
+2019-11-12 19:43:12 INFO  BaseTest:57 - Maximizing window
+2019-11-12 19:43:12 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 19:43:13 INFO  BaseTest:66 - Driver close
+2019-11-12 19:43:14 INFO  BaseTest:68 - Test script complete
+2019-11-12 19:44:43 INFO  BaseTest:44 - Chrome driver initialized
+2019-11-12 19:44:45 INFO  BaseTest:54 - Opening Orange HRM url
+2019-11-12 19:44:47 INFO  BaseTest:57 - Maximizing window
+2019-11-12 19:44:49 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 19:44:50 INFO  BaseTest:66 - Driver close
+2019-11-12 19:44:50 INFO  BaseTest:68 - Test script complete
+2019-11-12 19:44:50 INFO  BaseTest:44 - Chrome driver initialized
+2019-11-12 19:44:52 INFO  BaseTest:54 - Opening Orange HRM url
+2019-11-12 19:44:54 INFO  BaseTest:57 - Maximizing window
+2019-11-12 19:44:55 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 19:44:56 INFO  BaseTest:66 - Driver close
+2019-11-12 19:44:56 INFO  BaseTest:68 - Test script complete
+2019-11-12 19:46:09 INFO  BaseTest:44 - Chrome driver initialized
+2019-11-12 19:46:11 INFO  BaseTest:54 - Opening Orange HRM url
+2019-11-12 19:46:14 INFO  BaseTest:57 - Maximizing window
+2019-11-12 19:46:15 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 19:46:16 INFO  BaseTest:67 - Driver close
+2019-11-12 19:46:16 INFO  BaseTest:69 - Test script complete
+2019-11-12 19:46:16 INFO  BaseTest:44 - Chrome driver initialized
+2019-11-12 19:46:18 INFO  BaseTest:54 - Opening Orange HRM url
+2019-11-12 19:46:20 INFO  BaseTest:57 - Maximizing window
+2019-11-12 19:46:20 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 19:46:21 INFO  BaseTest:67 - Driver close
+2019-11-12 19:46:21 INFO  BaseTest:69 - Test script complete
+2019-11-12 19:50:28 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 19:50:29 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-12 19:50:32 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-12 19:50:35 INFO  BaseTest:58 - Maximizing window
+2019-11-12 19:50:36 INFO  BaseTest:68 - Driver close
+2019-11-12 19:50:36 INFO  BaseTest:70 - Test script complete
+2019-11-12 19:50:36 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-12 19:50:38 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-12 19:50:40 INFO  BaseTest:58 - Maximizing window
+2019-11-12 19:50:41 INFO  BaseTest:68 - Driver close
+2019-11-12 19:50:41 INFO  BaseTest:70 - Test script complete
+2019-11-12 19:58:27 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 19:58:28 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-12 19:58:30 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-12 19:58:33 INFO  BaseTest:58 - Maximizing window
+2019-11-12 19:58:35 INFO  BaseTest:68 - Driver close
+2019-11-12 19:58:35 INFO  BaseTest:70 - Test script complete
+2019-11-12 19:58:36 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-12 19:58:37 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-12 19:58:40 INFO  BaseTest:58 - Maximizing window
+2019-11-12 19:58:43 INFO  BaseTest:68 - Driver close
+2019-11-12 19:58:43 INFO  BaseTest:70 - Test script complete
+2019-11-12 20:00:52 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 20:00:53 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-12 20:00:55 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-12 20:01:00 INFO  BaseTest:58 - Maximizing window
+2019-11-12 20:01:05 INFO  OTPTesting:29 - Registration page reached 
+2019-11-12 20:01:05 INFO  BaseTest:68 - Driver close
+2019-11-12 20:01:05 INFO  BaseTest:70 - Test script complete
+2019-11-12 23:51:04 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 23:51:06 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-12 23:51:10 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-12 23:51:14 INFO  BaseTest:58 - Maximizing window
+2019-11-12 23:51:20 INFO  OTPTesting:29 - Registration page reached 
+2019-11-12 23:51:20 INFO  BaseTest:68 - Driver close
+2019-11-12 23:51:20 INFO  BaseTest:70 - Test script complete
+2019-11-12 23:59:37 INFO  ExcelReader:34 - Workbook loaded
+2019-11-12 23:59:38 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-12 23:59:40 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-12 23:59:43 INFO  BaseTest:58 - Maximizing window
+2019-11-12 23:59:52 INFO  BaseTest:68 - Driver close
+2019-11-12 23:59:52 INFO  BaseTest:70 - Test script complete
+2019-11-12 23:59:52 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-12 23:59:54 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-12 23:59:55 INFO  BaseTest:58 - Maximizing window
+2019-11-13 00:07:18 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 00:07:19 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 00:07:21 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 00:07:24 INFO  BaseTest:58 - Maximizing window
+2019-11-13 00:07:32 INFO  BaseTest:68 - Driver close
+2019-11-13 00:07:32 INFO  BaseTest:70 - Test script complete
+2019-11-13 00:07:32 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 00:07:34 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 00:07:36 INFO  BaseTest:58 - Maximizing window
+2019-11-13 00:07:37 INFO  BaseTest:68 - Driver close
+2019-11-13 00:07:37 INFO  BaseTest:70 - Test script complete
+2019-11-13 00:10:50 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 00:10:50 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 00:10:53 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 00:10:55 INFO  BaseTest:58 - Maximizing window
+2019-11-13 00:11:03 INFO  BaseTest:68 - Driver close
+2019-11-13 00:11:03 INFO  BaseTest:70 - Test script complete
+2019-11-13 00:11:03 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 00:11:06 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 00:11:08 INFO  BaseTest:58 - Maximizing window
+2019-11-13 00:11:15 INFO  BaseTest:68 - Driver close
+2019-11-13 00:11:15 INFO  BaseTest:70 - Test script complete
+2019-11-13 00:13:01 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 00:13:02 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 00:13:04 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 00:13:06 INFO  BaseTest:58 - Maximizing window
+2019-11-13 00:13:13 INFO  OTPTesting:29 - Registration page reached 
+2019-11-13 00:13:13 INFO  BaseTest:68 - Driver close
+2019-11-13 00:13:13 INFO  BaseTest:70 - Test script complete
+2019-11-13 00:14:52 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 00:14:52 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 00:14:55 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 00:14:57 INFO  BaseTest:58 - Maximizing window
+2019-11-13 00:15:03 INFO  OTPTesting:29 - Registration page reached 
+2019-11-13 00:15:03 INFO  BaseTest:68 - Driver close
+2019-11-13 00:15:03 INFO  BaseTest:70 - Test script complete
+2019-11-13 00:17:28 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 00:17:29 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 00:17:32 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 00:17:35 INFO  BaseTest:58 - Maximizing window
+2019-11-13 00:17:41 INFO  OTPTesting:29 - Registration page reached 
+2019-11-13 00:17:41 INFO  BaseTest:68 - Driver close
+2019-11-13 00:17:41 INFO  BaseTest:70 - Test script complete
+2019-11-13 01:54:54 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 01:54:55 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 01:54:57 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 01:55:00 INFO  BaseTest:58 - Maximizing window
+2019-11-13 01:55:06 INFO  BaseTest:68 - Driver close
+2019-11-13 01:55:06 INFO  BaseTest:70 - Test script complete
+2019-11-13 01:55:07 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 01:55:09 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 01:55:11 INFO  BaseTest:58 - Maximizing window
+2019-11-13 01:55:15 INFO  BaseTest:68 - Driver close
+2019-11-13 01:55:15 INFO  BaseTest:70 - Test script complete
+2019-11-13 01:56:45 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 01:56:45 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 01:56:48 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 01:56:50 INFO  BaseTest:58 - Maximizing window
+2019-11-13 01:57:03 INFO  OTPTesting:34 - Registration page reached 
+2019-11-13 01:57:03 INFO  BaseTest:68 - Driver close
+2019-11-13 01:57:03 INFO  BaseTest:70 - Test script complete
+2019-11-13 02:03:20 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 02:03:21 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 02:03:24 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 02:03:26 INFO  BaseTest:58 - Maximizing window
+2019-11-13 02:03:38 INFO  OTPTesting:34 - Registration page reached 
+2019-11-13 02:03:38 INFO  BaseTest:68 - Driver close
+2019-11-13 02:03:38 INFO  BaseTest:70 - Test script complete
+2019-11-13 11:06:28 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 11:06:30 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 11:06:34 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 11:06:36 INFO  BaseTest:58 - Maximizing window
+2019-11-13 11:06:51 INFO  OTPTesting:34 - Registration page reached 
+2019-11-13 11:06:51 INFO  BaseTest:68 - Driver close
+2019-11-13 11:06:51 INFO  BaseTest:70 - Test script complete
+2019-11-13 11:19:42 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 11:19:44 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 11:19:47 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 11:19:50 INFO  BaseTest:58 - Maximizing window
+2019-11-13 11:20:03 INFO  OTPTesting:34 - Registration page reached 
+2019-11-13 11:20:03 INFO  BaseTest:68 - Driver close
+2019-11-13 11:20:03 INFO  BaseTest:70 - Test script complete
+2019-11-13 11:28:34 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 11:28:37 INFO  BaseTest:50 - Firefox driver initialized
+2019-11-13 11:28:48 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 11:28:50 INFO  BaseTest:58 - Maximizing window
+2019-11-13 11:29:08 INFO  OTPTesting:34 - Registration page reached 
+2019-11-13 11:29:08 INFO  BaseTest:68 - Driver close
+2019-11-13 11:29:08 INFO  BaseTest:70 - Test script complete
+2019-11-13 11:30:31 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 11:30:32 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 11:30:35 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 11:30:37 INFO  BaseTest:58 - Maximizing window
+2019-11-13 11:30:51 INFO  OTPTesting:34 - Registration page reached 
+2019-11-13 11:30:51 INFO  BaseTest:68 - Driver close
+2019-11-13 11:30:51 INFO  BaseTest:70 - Test script complete
+2019-11-13 23:30:40 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 23:30:43 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 23:30:47 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 23:30:48 INFO  BaseTest:58 - Maximizing window
+2019-11-13 23:30:49 INFO  LoginTest:34 - Title is: Microsoft - Official Home Page
+2019-11-13 23:30:49 INFO  BaseTest:68 - Driver close
+2019-11-13 23:30:49 INFO  BaseTest:70 - Test script complete
+2019-11-13 23:30:49 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 23:30:51 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 23:30:53 INFO  BaseTest:58 - Maximizing window
+2019-11-13 23:30:54 INFO  LoginTest:34 - Title is: Microsoft - Official Home Page
+2019-11-13 23:30:54 INFO  BaseTest:68 - Driver close
+2019-11-13 23:30:54 INFO  BaseTest:70 - Test script complete
+2019-11-13 23:30:54 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 23:30:57 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 23:30:58 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 23:31:31 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 23:31:33 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 23:31:36 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 23:31:40 INFO  BaseTest:58 - Maximizing window
+2019-11-13 23:31:40 INFO  LoginTest:34 - Title is: OrangeHRM
+2019-11-13 23:31:40 INFO  BaseTest:68 - Driver close
+2019-11-13 23:31:40 INFO  BaseTest:70 - Test script complete
+2019-11-13 23:31:40 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 23:31:43 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 23:31:45 INFO  BaseTest:58 - Maximizing window
+2019-11-13 23:31:46 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 23:33:09 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 23:33:09 INFO  ExcelReader:34 - Workbook loaded
+2019-11-13 23:33:10 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-13 23:33:13 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-13 23:33:17 INFO  BaseTest:58 - Maximizing window
+2019-11-13 23:33:22 INFO  LoginTest:62 - HomePage header is: Welcome Admin
+2019-11-13 23:33:22 INFO  BaseTest:68 - Driver close
+2019-11-13 23:33:22 INFO  BaseTest:70 - Test script complete
+2019-11-14 11:41:21 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 11:41:22 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 11:41:24 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 11:41:31 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 11:41:34 INFO  BaseTest:58 - Maximizing window
+2019-11-14 11:41:39 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 11:41:44 INFO  BaseTest:68 - Driver close
+2019-11-14 11:41:44 INFO  BaseTest:70 - Test script complete
+2019-11-14 11:41:44 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 11:41:44 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 11:41:47 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 11:41:51 INFO  BaseTest:58 - Maximizing window
+2019-11-14 11:41:56 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 11:42:00 INFO  BaseTest:68 - Driver close
+2019-11-14 11:42:00 INFO  BaseTest:70 - Test script complete
+2019-11-14 11:53:28 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 11:53:28 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 11:53:30 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 11:53:35 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 11:53:39 INFO  BaseTest:58 - Maximizing window
+2019-11-14 11:53:44 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 11:53:46 INFO  BaseTest:68 - Driver close
+2019-11-14 11:53:46 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:41:14 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:41:15 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:41:18 INFO  BaseTest:50 - Firefox driver initialized
+2019-11-14 13:41:29 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:41:34 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:41:38 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 13:41:41 INFO  BaseTest:68 - Driver close
+2019-11-14 13:41:41 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:41:41 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:41:41 INFO  BaseTest:50 - Firefox driver initialized
+2019-11-14 13:41:46 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:41:50 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:41:53 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 13:41:56 INFO  BaseTest:68 - Driver close
+2019-11-14 13:41:56 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:43:57 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:43:57 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:44:00 INFO  BaseTest:50 - Firefox driver initialized
+2019-11-14 13:44:06 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:44:09 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:44:13 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 13:44:15 INFO  BaseTest:68 - Driver close
+2019-11-14 13:44:15 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:44:15 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:44:16 INFO  BaseTest:50 - Firefox driver initialized
+2019-11-14 13:44:21 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:44:25 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:44:28 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 13:44:31 INFO  BaseTest:68 - Driver close
+2019-11-14 13:44:31 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:46:26 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:46:26 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:46:29 INFO  BaseTest:50 - Firefox driver initialized
+2019-11-14 13:46:36 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:46:40 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:46:43 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 13:46:46 INFO  BaseTest:68 - Driver close
+2019-11-14 13:46:46 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:46:46 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:46:46 INFO  BaseTest:50 - Firefox driver initialized
+2019-11-14 13:46:53 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:46:57 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:47:00 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 13:47:03 INFO  BaseTest:68 - Driver close
+2019-11-14 13:47:03 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:47:48 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:47:49 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:47:50 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 13:47:54 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:47:57 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:47:59 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 13:48:02 INFO  BaseTest:68 - Driver close
+2019-11-14 13:48:02 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:48:25 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:48:25 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:48:25 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:48:26 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 13:48:29 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:48:32 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:48:35 INFO  LoginTest:62 - HomePage header is: Welcome Admin
+2019-11-14 13:48:35 INFO  BaseTest:68 - Driver close
+2019-11-14 13:48:35 INFO  BaseTest:70 - Test script complete
+2019-11-14 13:48:35 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 13:48:35 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 13:48:37 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 13:48:40 INFO  BaseTest:58 - Maximizing window
+2019-11-14 13:48:43 INFO  HomePageTest:33 - HomePage header is: Welcome Admin
+2019-11-14 13:48:46 INFO  BaseTest:68 - Driver close
+2019-11-14 13:48:46 INFO  BaseTest:70 - Test script complete
+2019-11-14 14:17:35 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 14:17:37 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 14:17:41 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 14:17:44 INFO  BaseTest:58 - Maximizing window
+2019-11-14 14:18:00 INFO  OTPTesting:34 - Registration page reached 
+2019-11-14 14:18:00 INFO  BaseTest:68 - Driver close
+2019-11-14 14:18:00 INFO  BaseTest:70 - Test script complete
+2019-11-14 14:57:32 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 14:57:34 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 14:57:38 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 14:57:40 INFO  BaseTest:58 - Maximizing window
+2019-11-14 14:57:54 INFO  OTPTesting:34 - Registration page reached 
+2019-11-14 14:57:54 INFO  BaseTest:68 - Driver close
+2019-11-14 14:57:54 INFO  BaseTest:70 - Test script complete
+2019-11-14 15:00:42 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 15:00:44 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 15:00:47 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 15:00:49 INFO  BaseTest:58 - Maximizing window
+2019-11-14 15:00:58 INFO  OTPTesting:34 - Registration page reached 
+2019-11-14 15:00:58 INFO  BaseTest:68 - Driver close
+2019-11-14 15:00:58 INFO  BaseTest:70 - Test script complete
+2019-11-14 15:01:21 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 15:01:22 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 15:01:25 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 15:01:29 INFO  BaseTest:58 - Maximizing window
+2019-11-14 15:01:45 INFO  OTPTesting:34 - Registration page reached 
+2019-11-14 15:01:45 INFO  BaseTest:68 - Driver close
+2019-11-14 15:01:45 INFO  BaseTest:70 - Test script complete

@@ -27,7 +27,7 @@ public class LoginTest extends BaseTest {
 		return testData.iterator();
 	}
 
-	@Test(priority = 1)
+	/*@Test(priority = 1)
 	public void verifyLoginPageTitleTest() {
 		// Generics will create object of LoginPage class
 		String title = page.getInstance(LoginPage.class).loginPageTitle();
@@ -52,7 +52,7 @@ public class LoginTest extends BaseTest {
 		logger.info("HomePage header is: " + homePageHeader);
 		Assert.assertEquals(homePageHeader, "Welcome Admin");
 	}
-
+*/
 	@Test(dataProvider = "getTestData", priority = 4)
 	public void verifyLoginDataTest(String userName, String passWord) {
 		System.out.println("userName " + userName);

@@ -1,5 +1,7 @@
 package com.orangehrm.pages;
 
+import java.util.concurrent.TimeUnit;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -25,6 +27,8 @@ public class BasePage extends Page {
 	@Override
 	public WebElement getElement(By locator) {
 		WebElement element = null;
+		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+	
 		try {
 			element = driver.findElement(locator);
 		} catch (Exception e) {
