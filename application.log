@@ -932,3 +932,31 @@
 2019-11-14 15:01:45 INFO  OTPTesting:34 - Registration page reached 
 2019-11-14 15:01:45 INFO  BaseTest:68 - Driver close
 2019-11-14 15:01:45 INFO  BaseTest:70 - Test script complete
+2019-11-14 23:34:32 INFO  ExcelReader:34 - Workbook loaded
+2019-11-14 23:34:34 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-14 23:34:37 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-14 23:34:39 INFO  BaseTest:58 - Maximizing window
+2019-11-14 23:34:53 INFO  OTPTesting:34 - Registration page reached 
+2019-11-14 23:34:53 INFO  BaseTest:68 - Driver close
+2019-11-14 23:34:53 INFO  BaseTest:70 - Test script complete
+2019-11-15 00:03:26 INFO  ExcelReader:34 - Workbook loaded
+2019-11-15 00:03:27 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-15 00:03:30 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-15 00:03:31 INFO  BaseTest:58 - Maximizing window
+2019-11-15 00:03:56 INFO  OTPTesting:34 - Registration page reached 
+2019-11-15 00:03:56 INFO  BaseTest:68 - Driver close
+2019-11-15 00:03:56 INFO  BaseTest:70 - Test script complete
+2019-11-15 00:04:41 INFO  ExcelReader:34 - Workbook loaded
+2019-11-15 00:04:42 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-15 00:04:45 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-15 00:04:48 INFO  BaseTest:58 - Maximizing window
+2019-11-15 00:04:57 INFO  OTPTesting:34 - Registration page reached 
+2019-11-15 00:04:57 INFO  BaseTest:68 - Driver close
+2019-11-15 00:04:57 INFO  BaseTest:70 - Test script complete
+2019-11-15 00:05:23 INFO  ExcelReader:34 - Workbook loaded
+2019-11-15 00:05:24 INFO  BaseTest:45 - Chrome driver initialized
+2019-11-15 00:05:27 INFO  BaseTest:55 - Opening Orange HRM url
+2019-11-15 00:05:29 INFO  BaseTest:58 - Maximizing window
+2019-11-15 00:05:41 INFO  OTPTesting:34 - Registration page reached 
+2019-11-15 00:05:41 INFO  BaseTest:68 - Driver close
+2019-11-15 00:05:41 INFO  BaseTest:70 - Test script complete
