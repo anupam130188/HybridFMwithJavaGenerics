@@ -13,9 +13,9 @@
 		<!-- <parameter name="username" value="testuser" />
 		<parameter name="password" value="testpassword" /> -->
 		<classes>
-<!-- 	<class name="com.orangehrm.Tests.LoginTest" />
-	<class name="com.orangehrm.Tests.HomePageTest" /> -->
-			<class name="com.orangehrm.Tests.OTPTesting" />	
+	<class name="com.orangehrm.Tests.LoginTest" />
+	<class name="com.orangehrm.Tests.HomePageTest" />
+		<!-- 	<class name="com.orangehrm.Tests.OTPTesting" /> -->	
 		</classes>
 	</test>
 	

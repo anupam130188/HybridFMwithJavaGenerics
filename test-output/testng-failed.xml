@@ -5,13 +5,13 @@
     <listener class-name="com.orangehrm.utils.AnnotationTransformer"/>
   </listeners>
   <test thread-count="2" verbose="3" name="Orange HRM tests on chrome(failed)" parallel="tests">
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.orangehrm.Tests.HomePageTest">
         <methods>
           <include name="setUpTest"/>
           <include name="tearDown"/>
-          <include name="verifyUserNameTest" invocation-numbers="0 0"/>
+          <include name="verifyUserNameTest" invocation-numbers="0"/>
         </methods>
       </class> <!-- com.orangehrm.Tests.HomePageTest -->
     </classes>
