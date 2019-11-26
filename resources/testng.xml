@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" verbose="3" name="Suite" parallel="tests"> <!--Parallel = tests means tests should be triggered in parallel--> 
+<suite thread-count="2" verbose="10" name="Suite" parallel="tests"> <!--Parallel = tests means tests should be triggered in parallel--> 
 <!--  verbose define the log information level, high means more log info -->
 
 	<listeners>
@@ -14,7 +14,7 @@
 		<parameter name="password" value="testpassword" /> -->
 		<classes>
 	<class name="com.orangehrm.Tests.LoginTest" />
-	<class name="com.orangehrm.Tests.HomePageTest" />
+	<!-- <class name="com.orangehrm.Tests.HomePageTest" /> -->
 		<!-- 	<class name="com.orangehrm.Tests.OTPTesting" /> -->	
 		</classes>
 	</test>

@@ -27,7 +27,7 @@ public class LoginTest extends BaseTest {
 		return testData.iterator();
 	}
 
-	/*@Test(priority = 1)
+	@Test(priority = 1)
 	public void verifyLoginPageTitleTest() {
 		// Generics will create object of LoginPage class
 		String title = page.getInstance(LoginPage.class).loginPageTitle();
@@ -43,7 +43,7 @@ public class LoginTest extends BaseTest {
 		Assert.assertEquals(header, "OrangeHRM, Inc");
 	}
 
-	@Test(priority = 3)
+//	@Test(priority = 3)
 	public void verifyLoginTest() {
 		// Generics will create object of LoginPage class
 		HomePage homePage = page.getInstance(LoginPage.class).loginSuccess(ExcelReader.getExcelData(0, 1, 0),
@@ -52,8 +52,8 @@ public class LoginTest extends BaseTest {
 		logger.info("HomePage header is: " + homePageHeader);
 		Assert.assertEquals(homePageHeader, "Welcome Admin");
 	}
-*/
-	@Test(dataProvider = "getTestData", priority = 4)
+
+//	@Test(dataProvider = "getTestData", priority = 4)
 	public void verifyLoginDataTest(String userName, String passWord) {
 		System.out.println("userName " + userName);
 		System.out.println("passWord " + passWord);

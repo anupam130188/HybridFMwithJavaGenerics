@@ -27,7 +27,7 @@ public class BasePage extends Page {
 	@Override
 	public WebElement getElement(By locator) {
 		WebElement element = null;
-		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	
 		try {
 			element = driver.findElement(locator);

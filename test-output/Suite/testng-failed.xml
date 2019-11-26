@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [Suite]" parallel="tests">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="10" name="Failed suite [Suite]" parallel="tests">
   <listeners>
     <listener class-name="com.orangehrm.utils.AnnotationTransformer"/>
   </listeners>
-  <test thread-count="2" verbose="3" name="Orange HRM tests on chrome(failed)" parallel="tests">
+  <test thread-count="2" verbose="10" name="Orange HRM tests on chrome(failed)" parallel="tests">
     <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.orangehrm.Tests.HomePageTest">
         <methods>
           <include name="setUpTest"/>
           <include name="tearDown"/>
-          <include name="verifyUserNameTest" invocation-numbers="0"/>
+          <include name="verifyUserNameTest" invocation-numbers="0 0"/>
         </methods>
       </class> <!-- com.orangehrm.Tests.HomePageTest -->
     </classes>

@@ -10,7 +10,7 @@ public class HomePage extends BasePage {
 
 	private By adminOption = By.id("menu_admin_viewAdminModule");
 
-	private By userName = By.id("searchSystemUser_userName");
+	private By userName = By.xpath("//*[@id='searchSystemUser_userName']");
 	private By searchBtn = By.id("searchBtn");
 	private By userValue = By.xpath("//table[@id='resultTable']//td//a");
 
@@ -36,7 +36,14 @@ public class HomePage extends BasePage {
 	 * @return the searchBtn
 	 */
 	public WebElement getSearchBtn() {
-		return getElement(searchBtn);
+		WebElement e = null;
+		try {
+		e=	getElement(searchBtn);
+		} catch (Exception e1) {
+			e = getElement(searchBtn);
+		}
+		return e;
+		
 	}
 
 	/**

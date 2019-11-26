@@ -52,12 +52,14 @@ public class BaseTest {
 		} else {
 			logger.info("No Browser initialized");
 		}
+		driver.manage().window().maximize();
+		driver.manage().deleteAllCookies();
 		logger.info("Opening Orange HRM url");
 		driver.get("https://opensource-demo.orangehrmlive.com/index.php/auth/login");
 		//driver.get("https://www.microsoft.com/en-in/");
 		logger.info("Maximizing window");
 		//driver.manage().window().fullscreen();
-		driver.manage().window().maximize();
+		
 		// this line of code is going to call constructor of Page class
 		page = new BasePage(driver);
 		
