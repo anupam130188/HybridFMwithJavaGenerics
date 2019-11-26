@@ -10,7 +10,6 @@ import org.testng.annotations.Test;
 
 import com.orangehrm.pages.HomePage;
 import com.orangehrm.pages.LoginPage;
-import com.orangehrm.utils.ExcelData;
 import com.orangehrm.utils.ExcelReader;
 
 /**
@@ -53,7 +52,7 @@ public class LoginTest extends BaseTest {
 		Assert.assertEquals(homePageHeader, "Welcome Admin");
 	}
 
-//	@Test(dataProvider = "getTestData", priority = 4)
+	@Test(dataProvider = "getTestData", priority = 4)
 	public void verifyLoginDataTest(String userName, String passWord) {
 		System.out.println("userName " + userName);
 		System.out.println("passWord " + passWord);

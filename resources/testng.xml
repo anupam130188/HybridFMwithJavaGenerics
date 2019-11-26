@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" verbose="10" name="Suite" parallel="tests"> <!--Parallel = tests means tests should be triggered in parallel--> 
-<!--  verbose define the log information level, high means more log info -->
+<suite thread-count="2" verbose="10" name="Suite" parallel="tests"> <!--Parallel = tests means tests should be triggered in parallel -->
+	<!-- verbose define the log information level, high means more log info -->
 
 	<listeners>
-		<listener class-name="com.orangehrm.utils.AnnotationTransformer" />
+		<listener
+			class-name="com.orangehrm.utils.AnnotationTransformer" />
 	</listeners>
 
 	<test name="Orange HRM tests on chrome"> <!-- information about tests -->
 		<parameter name="browser" value="chrome" />
-	<!-- <parameter name="browser" value="firefox" /> -->
-		<!-- <parameter name="username" value="testuser" />
-		<parameter name="password" value="testpassword" /> -->
-		<classes>
-	<class name="com.orangehrm.Tests.LoginTest" />
-	<!-- <class name="com.orangehrm.Tests.HomePageTest" /> -->
-		<!-- 	<class name="com.orangehrm.Tests.OTPTesting" /> -->	
-		</classes>
-	</test>
-	
-	
-	
-	<!-- information about tests and below  test can be used to test scripts parameter for browser-->
-	<!-- 	<test name="Orange HRM tests on Firefox"> 
-		<parameter name="browser" value="firefox" />
-		<parameter name="username" value="testuser" />
-		<parameter name="password" value="testpassword" />
+		<!-- <parameter name="browser" value="firefox" /> -->
+		<!-- <parameter name="username" value="testuser" /> <parameter name="password" 
+			value="testpassword" /> -->
 		<classes>
 			<class name="com.orangehrm.Tests.LoginTest" />
+			<class name="com.orangehrm.Tests.HomePageTest" />
+			<!-- <class name="com.orangehrm.Tests.OTPTesting" /> -->
 		</classes>
-	</test> -->
-	
+	</test>
+
+
+
+	<!-- information about tests and below test can be used to test scripts 
+		parameter for browser -->
+	<!-- <test name="Orange HRM tests on Firefox"> <parameter name="browser" 
+		value="firefox" /> <parameter name="username" value="testuser" /> <parameter 
+		name="password" value="testpassword" /> <classes> <class name="com.orangehrm.Tests.LoginTest" 
+		/> </classes> </test> -->
+
 </suite>

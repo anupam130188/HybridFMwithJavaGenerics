@@ -34,7 +34,7 @@ public class BaseTest {
 	public BaseTest() {
 		String log4jConfigFile = System.getProperty("user.dir") + "\\resources\\log4j.properties";
 		PropertyConfigurator.configure(log4jConfigFile);
-		
+		excelReader = new ExcelReader(excelReader.filePath);	
 	}
 
 	@BeforeMethod
@@ -52,7 +52,7 @@ public class BaseTest {
 		} else {
 			logger.info("No Browser initialized");
 		}
-		excelReader = new ExcelReader(excelReader.filePath);
+		
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		logger.info("Opening Orange HRM url");
