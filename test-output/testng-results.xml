@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="1" failed="1" ignored="0" total="6" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="59017" started-at="2019-11-24T13:03:05Z" finished-at="2019-11-24T13:04:04Z">
+  <suite name="Suite" duration-ms="25189" started-at="2019-11-26T01:47:17Z" finished-at="2019-11-26T01:47:42Z">
     <groups>
     </groups>
-    <test name="Orange HRM tests on chrome" duration-ms="59017" started-at="2019-11-24T13:03:05Z" finished-at="2019-11-24T13:04:04Z">
+    <test name="Orange HRM tests on chrome" duration-ms="25189" started-at="2019-11-26T01:47:17Z" finished-at="2019-11-26T01:47:42Z">
       <class name="com.orangehrm.Tests.LoginTest">
-        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="setUpTest" is-config="true" duration-ms="6520" started-at="2019-11-24T13:03:05Z" finished-at="2019-11-24T13:03:11Z">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="setUpTest" is-config="true" duration-ms="9725" started-at="2019-11-26T01:47:17Z" finished-at="2019-11-26T01:47:26Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="verifyLoginPageTitleTest" duration-ms="22" started-at="2019-11-24T13:03:11Z" finished-at="2019-11-24T13:03:11Z">
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="verifyLoginPageTitleTest" duration-ms="27" started-at="2019-11-26T01:47:26Z" finished-at="2019-11-26T01:47:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="tearDown" is-config="true" duration-ms="1099" started-at="2019-11-24T13:03:11Z" finished-at="2019-11-24T13:03:13Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="tearDown" is-config="true" duration-ms="1171" started-at="2019-11-26T01:47:26Z" finished-at="2019-11-26T01:47:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="setUpTest" is-config="true" duration-ms="5184" started-at="2019-11-24T13:03:13Z" finished-at="2019-11-24T13:03:18Z">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="setUpTest" is-config="true" duration-ms="5088" started-at="2019-11-26T01:47:28Z" finished-at="2019-11-26T01:47:33Z">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="verifyLoginPageHeaderTest()[pri:2, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="verifyLoginPageHeaderTest" duration-ms="41" started-at="2019-11-24T13:03:18Z" finished-at="2019-11-24T13:03:18Z">
+        <test-method status="PASS" signature="verifyLoginPageHeaderTest()[pri:2, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="verifyLoginPageHeaderTest" duration-ms="50" started-at="2019-11-26T01:47:33Z" finished-at="2019-11-26T01:47:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageHeaderTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="tearDown" is-config="true" duration-ms="1089" started-at="2019-11-24T13:03:18Z" finished-at="2019-11-24T13:03:19Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="tearDown" is-config="true" duration-ms="1134" started-at="2019-11-26T01:47:33Z" finished-at="2019-11-26T01:47:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="setUpTest" is-config="true" duration-ms="5339" started-at="2019-11-24T13:03:19Z" finished-at="2019-11-24T13:03:24Z">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="setUpTest" is-config="true" duration-ms="5140" started-at="2019-11-26T01:47:34Z" finished-at="2019-11-26T01:47:39Z">
           <params>
             <param index="0">
               <value>
@@ -56,166 +56,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="verifyLoginTest()[pri:3, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="verifyLoginTest" duration-ms="1989" started-at="2019-11-24T13:03:24Z" finished-at="2019-11-24T13:03:26Z">
+        <test-method status="PASS" signature="verifyLoginTest()[pri:3, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="verifyLoginTest" duration-ms="1770" started-at="2019-11-26T01:47:39Z" finished-at="2019-11-26T01:47:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="tearDown" is-config="true" duration-ms="1255" started-at="2019-11-24T13:03:26Z" finished-at="2019-11-24T13:03:27Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="setUpTest" is-config="true" duration-ms="5333" started-at="2019-11-24T13:03:27Z" finished-at="2019-11-24T13:03:33Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="verifyLoginDataTest(java.lang.String, java.lang.String)[pri:4, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="verifyLoginDataTest" duration-ms="1988" started-at="2019-11-24T13:03:33Z" data-provider="getTestData" finished-at="2019-11-24T13:03:35Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[admin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[admin123]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLoginDataTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@6e509ffa]" name="tearDown" is-config="true" duration-ms="1222" started-at="2019-11-24T13:03:35Z" finished-at="2019-11-24T13:03:36Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@610694f1]" name="tearDown" is-config="true" duration-ms="1043" started-at="2019-11-26T01:47:41Z" finished-at="2019-11-26T01:47:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.orangehrm.Tests.LoginTest -->
-      <class name="com.orangehrm.Tests.HomePageTest">
-        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.HomePageTest@2898ac89]" name="setUpTest" is-config="true" duration-ms="5781" started-at="2019-11-24T13:03:36Z" finished-at="2019-11-24T13:03:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpTest -->
-        <test-method status="SKIP" signature="verifyUserNameTest(java.lang.String, java.lang.String)[pri:4, instance:com.orangehrm.Tests.HomePageTest@2898ac89]" name="verifyUserNameTest" duration-ms="7081" started-at="2019-11-24T13:03:42Z" data-provider="getTestData" finished-at="2019-11-24T13:03:49Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[admin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[admin123]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-at com.orangehrm.pages.HomePage.userManagementSearch(HomePage.java:75)
-at com.orangehrm.Tests.HomePageTest.verifyUserNameTest(HomePageTest.java:40)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-at java.lang.reflect.Method.invoke(Unknown Source)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
-at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
-at java.util.concurrent.FutureTask.run(Unknown Source)
-at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyUserNameTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.HomePageTest@2898ac89]" name="tearDown" is-config="true" duration-ms="1441" started-at="2019-11-24T13:03:49Z" finished-at="2019-11-24T13:03:50Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.orangehrm.Tests.HomePageTest@2898ac89]" name="setUpTest" is-config="true" duration-ms="5324" started-at="2019-11-24T13:03:50Z" finished-at="2019-11-24T13:03:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpTest -->
-        <test-method status="FAIL" signature="verifyUserNameTest(java.lang.String, java.lang.String)[pri:4, instance:com.orangehrm.Tests.HomePageTest@2898ac89]" name="verifyUserNameTest" duration-ms="6977" started-at="2019-11-24T13:03:56Z" data-provider="getTestData" finished-at="2019-11-24T13:04:03Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[admin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[admin123]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.NullPointerException">
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException
-at com.orangehrm.pages.HomePage.userManagementSearch(HomePage.java:75)
-at com.orangehrm.Tests.HomePageTest.verifyUserNameTest(HomePageTest.java:40)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-at java.lang.reflect.Method.invoke(Unknown Source)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.retryFailed(Invoker.java:839)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1010)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
-at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
-at java.util.concurrent.FutureTask.run(Unknown Source)
-at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-at java.lang.Thread.run(Unknown Source)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyUserNameTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.HomePageTest@2898ac89]" name="tearDown" is-config="true" duration-ms="1180" started-at="2019-11-24T13:04:03Z" finished-at="2019-11-24T13:04:04Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.orangehrm.Tests.HomePageTest -->
     </test> <!-- Orange HRM tests on chrome -->
   </suite> <!-- Suite -->
 </testng-results>

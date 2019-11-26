@@ -43,7 +43,7 @@ public class LoginTest extends BaseTest {
 		Assert.assertEquals(header, "OrangeHRM, Inc");
 	}
 
-//	@Test(priority = 3)
+	@Test(priority = 3)
 	public void verifyLoginTest() {
 		// Generics will create object of LoginPage class
 		HomePage homePage = page.getInstance(LoginPage.class).loginSuccess(ExcelReader.getExcelData(0, 1, 0),
