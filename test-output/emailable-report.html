@@ -9,14 +9,61 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Suite</th></tr>
-<tr><td><a href="#t0">Orange HRM tests on chrome</a></td><td class="num">5</td><td class="num">0</td><td class="num">0</td><td class="num">45,582</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Orange HRM tests on chrome</a></td><td class="num">4</td><td class="num attn">1</td><td class="num attn">1</td><td class="num">60,644</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Orange HRM tests on chrome &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.orangehrm.Tests.HomePageTest</td><td><a href="#m0">verifyUserNameTest</a></td><td rowspan="1">1574748677312</td><td rowspan="1">6312</td></tr><tr class="passedodd"><td rowspan="4">com.orangehrm.Tests.LoginTest</td><td><a href="#m1">verifyLoginDataTest</a></td><td rowspan="1">1574748668498</td><td rowspan="1">2370</td></tr><tr class="passedodd"><td><a href="#m2">verifyLoginPageHeaderTest</a></td><td rowspan="1">1574748653189</td><td rowspan="1">66</td></tr><tr class="passedodd"><td><a href="#m3">verifyLoginPageTitleTest</a></td><td rowspan="1">1574748646750</td><td rowspan="1">31</td></tr><tr class="passedodd"><td><a href="#m4">verifyLoginTest</a></td><td rowspan="1">1574748659613</td><td rowspan="1">2472</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Orange HRM tests on chrome &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.orangehrm.Tests.HomePageTest</td><td><a href="#m0">verifyUserNameTest</a></td><td rowspan="1">1574758177413</td><td rowspan="1">10567</td></tr><tr><th colspan="4">Orange HRM tests on chrome &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">com.orangehrm.Tests.HomePageTest</td><td><a href="#m1">verifyUserNameTest</a></td><td rowspan="1">1574758163869</td><td rowspan="1">7118</td></tr><tr><th colspan="4">Orange HRM tests on chrome &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">com.orangehrm.Tests.LoginTest</td><td><a href="#m2">verifyLoginDataTest</a></td><td rowspan="1">1574758155948</td><td rowspan="1">1823</td></tr><tr class="passedeven"><td><a href="#m3">verifyLoginPageHeaderTest</a></td><td rowspan="1">1574758141536</td><td rowspan="1">60</td></tr><tr class="passedeven"><td><a href="#m4">verifyLoginPageTitleTest</a></td><td rowspan="1">1574758135382</td><td rowspan="1">25</td></tr><tr class="passedeven"><td><a href="#m5">verifyLoginTest</a></td><td rowspan="1">1574758147885</td><td rowspan="1">1920</td></tr></tbody>
 </table>
-<h2>Orange HRM tests on chrome</h2><h3 id="m0">com.orangehrm.Tests.HomePageTest#verifyUserNameTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>admin</td><td>admin123</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.orangehrm.Tests.LoginTest#verifyLoginDataTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>admin</td><td>admin123</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.orangehrm.Tests.LoginTest#verifyLoginPageHeaderTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">com.orangehrm.Tests.LoginTest#verifyLoginPageTitleTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">com.orangehrm.Tests.LoginTest#verifyLoginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Orange HRM tests on chrome</h2><h3 id="m0">com.orangehrm.Tests.HomePageTest#verifyUserNameTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>admin</td><td>admin123</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.NullPointerException
+	at com.orangehrm.pages.HomePage.userManagementSearch(HomePage.java:77)
+	at com.orangehrm.Tests.HomePageTest.verifyUserNameTest(HomePageTest.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:839)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1010)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.orangehrm.Tests.HomePageTest#verifyUserNameTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>admin</td><td>admin123</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.NullPointerException
+	at com.orangehrm.pages.HomePage.userManagementSearch(HomePage.java:75)
+	at com.orangehrm.Tests.HomePageTest.verifyUserNameTest(HomePageTest.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.orangehrm.Tests.LoginTest#verifyLoginDataTest</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>admin</td><td>admin123</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.orangehrm.Tests.LoginTest#verifyLoginPageHeaderTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.orangehrm.Tests.LoginTest#verifyLoginPageTitleTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.orangehrm.Tests.LoginTest#verifyLoginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

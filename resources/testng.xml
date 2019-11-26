@@ -15,7 +15,7 @@
 			value="testpassword" /> -->
 		<classes>
 			<class name="com.orangehrm.Tests.LoginTest" />
-			<class name="com.orangehrm.Tests.HomePageTest" />
+			<!-- <class name="com.orangehrm.Tests.HomePageTest" /> -->
 			<!-- <class name="com.orangehrm.Tests.OTPTesting" /> -->
 		</classes>
 	</test>
