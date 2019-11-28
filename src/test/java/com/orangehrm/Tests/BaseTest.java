@@ -4,6 +4,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -41,9 +42,15 @@ public class BaseTest {
 	@Parameters(value = { "browser" })
 	public void setUpTest(String browser) {
 		if (browser.equals("chrome")) {
+		
+			
 			WebDriverManager.chromedriver().setup();
+			ChromeOptions options = new ChromeOptions();
+			options.addArguments("--lang=en");
+			driver = new ChromeDriver(options);
+			
 			logger.info("Chrome driver initialized");
-			driver = new ChromeDriver();
+	//		driver = new ChromeDriver();
 		} else if (browser.equals("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
 
@@ -56,7 +63,7 @@ public class BaseTest {
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		logger.info("Opening Orange HRM url");
-		driver.get("https://opensource-demo.orangehrmlive.com/index.php/auth/login");
+		driver.get("https://opensource-demo.orangehrmlive.com/");
 		//driver.get("https://www.microsoft.com/en-in/");
 		logger.info("Maximizing window");
 		//driver.manage().window().fullscreen();
