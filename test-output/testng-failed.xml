@@ -10,11 +10,8 @@
       <class name="com.orangehrm.Tests.LoginTest">
         <methods>
           <include name="setUpTest"/>
-          <include name="verifyLoginPageTitleTest"/>
-          <include name="verifyLoginTest"/>
           <include name="tearDown"/>
-          <include name="verifyLoginDataTest"/>
-          <include name="verifyLoginPageHeaderTest"/>
+          <include name="verifyLoginDataTest" invocation-numbers="1 1"/>
         </methods>
       </class> <!-- com.orangehrm.Tests.LoginTest -->
     </classes>

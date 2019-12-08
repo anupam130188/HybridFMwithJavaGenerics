@@ -2201,3 +2201,98 @@
 2019-12-01 17:33:57 INFO  LoginTest:61 - HomePage header is: Welcome Admin
 2019-12-01 17:33:57 INFO  BaseTest:78 - Driver close
 2019-12-01 17:33:58 INFO  BaseTest:80 - Test script complete
+2019-12-02 20:08:59 INFO  ExcelReader:34 - Workbook loaded
+2019-12-02 20:09:06 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-02 20:09:06 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-02 20:09:09 INFO  BaseTest:68 - Maximizing window
+2019-12-02 20:09:09 INFO  LoginTest:33 - Title is: OrangeHRM
+2019-12-02 20:09:09 INFO  BaseTest:78 - Driver close
+2019-12-02 20:09:11 INFO  BaseTest:80 - Test script complete
+2019-12-02 20:09:13 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-02 20:09:13 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-02 20:09:16 INFO  BaseTest:68 - Maximizing window
+2019-12-02 20:09:16 INFO  LoginTest:41 - Header is: OrangeHRM, Inc
+2019-12-02 20:09:16 INFO  BaseTest:78 - Driver close
+2019-12-02 20:09:18 INFO  BaseTest:80 - Test script complete
+2019-12-02 20:09:20 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-02 20:09:20 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-02 20:09:24 INFO  BaseTest:68 - Maximizing window
+2019-12-02 20:09:24 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-02 20:09:24 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-02 20:09:29 INFO  LoginTest:51 - HomePage header is: Welcome Admin
+2019-12-02 20:09:29 INFO  BaseTest:78 - Driver close
+2019-12-02 20:09:30 INFO  BaseTest:80 - Test script complete
+2019-12-02 20:09:30 INFO  ExcelReader:34 - Workbook loaded
+2019-12-02 20:09:32 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-02 20:09:32 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-02 20:09:36 INFO  BaseTest:68 - Maximizing window
+2019-12-02 20:09:40 INFO  LoginTest:61 - HomePage header is: Welcome Admin
+2019-12-02 20:09:40 INFO  BaseTest:78 - Driver close
+2019-12-02 20:09:42 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:39:18 INFO  ExcelReader:34 - Workbook loaded
+2019-12-08 22:39:24 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:39:24 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:39:28 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:39:28 INFO  LoginTest:33 - Title is: OrangeHRM
+2019-12-08 22:39:28 INFO  BaseTest:78 - Driver close
+2019-12-08 22:39:29 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:39:31 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:39:31 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:39:35 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:39:35 INFO  LoginTest:41 - Header is: OrangeHRM, Inc
+2019-12-08 22:39:35 INFO  BaseTest:78 - Driver close
+2019-12-08 22:39:36 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:39:38 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:39:38 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:39:42 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:39:42 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-08 22:39:42 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-08 22:39:44 INFO  LoginTest:51 - HomePage header is: Welcome Admin
+2019-12-08 22:39:44 INFO  BaseTest:78 - Driver close
+2019-12-08 22:39:45 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:39:45 INFO  ExcelReader:34 - Workbook loaded
+2019-12-08 22:39:47 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:39:47 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:39:50 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:39:52 INFO  LoginTest:61 - HomePage header is: Welcome Admin
+2019-12-08 22:39:52 INFO  BaseTest:78 - Driver close
+2019-12-08 22:39:53 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:39:55 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:39:55 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:39:59 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:40:05 INFO  BaseTest:78 - Driver close
+2019-12-08 22:40:07 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:40:07 INFO  ExcelReader:34 - Workbook loaded
+2019-12-08 22:40:08 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:40:09 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:40:13 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:40:20 INFO  BaseTest:78 - Driver close
+2019-12-08 22:40:21 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:40:59 INFO  ExcelReader:34 - Workbook loaded
+2019-12-08 22:41:02 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:41:02 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:41:06 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:41:06 INFO  LoginTest:33 - Title is: OrangeHRM
+2019-12-08 22:41:06 INFO  BaseTest:78 - Driver close
+2019-12-08 22:41:07 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:41:09 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:41:09 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:41:12 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:41:12 INFO  LoginTest:41 - Header is: OrangeHRM, Inc
+2019-12-08 22:41:12 INFO  BaseTest:78 - Driver close
+2019-12-08 22:41:14 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:41:16 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:41:16 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:41:20 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:41:20 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-08 22:41:20 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-08 22:41:22 INFO  LoginTest:51 - HomePage header is: Welcome Admin
+2019-12-08 22:41:22 INFO  BaseTest:78 - Driver close
+2019-12-08 22:41:23 INFO  BaseTest:80 - Test script complete
+2019-12-08 22:41:23 INFO  ExcelReader:34 - Workbook loaded
+2019-12-08 22:41:25 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-08 22:41:25 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-08 22:41:29 INFO  BaseTest:68 - Maximizing window
+2019-12-08 22:41:31 INFO  LoginTest:61 - HomePage header is: Welcome Admin
+2019-12-08 22:41:31 INFO  BaseTest:78 - Driver close
+2019-12-08 22:41:32 INFO  BaseTest:80 - Test script complete

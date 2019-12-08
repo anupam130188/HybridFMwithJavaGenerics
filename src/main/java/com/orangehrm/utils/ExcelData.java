@@ -25,6 +25,7 @@ public class ExcelData {
 			// Object obj[] = new Object[];
 			Object obj[] = { username, password };
 			xclData.add(obj);
+			System.out.println(rownNum + " "+ obj[0] + " "+ obj[1]);
 		}
 		return xclData;
 	}
