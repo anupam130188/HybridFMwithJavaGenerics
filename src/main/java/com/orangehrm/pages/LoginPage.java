@@ -11,10 +11,7 @@ import org.openqa.selenium.WebElement;
  * @author anchandan
  *
  */
-/**
- * @author anchandan
- *
- */
+
 public class LoginPage extends BasePage{
 
 	//Page Locators
@@ -70,8 +67,7 @@ public class LoginPage extends BasePage{
 	public HomePage loginSuccess(String uname,String pwd) {
 		getEmailId().sendKeys(uname);
 		getPassword().sendKeys(pwd);
-		getLoginBtn().click();
-		
+		getLoginBtn().click();		
 		return getInstance(HomePage.class);
 	}
 

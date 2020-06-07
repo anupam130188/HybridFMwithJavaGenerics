@@ -1,5 +1,10 @@
 package com.orangehrm.Tests;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
@@ -17,14 +22,11 @@ import com.orangehrm.utils.ExcelReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 /**
- * 
- */
-
-/**
  * @author anchandan
  *
  */
 public class BaseTest {
+	public static Properties prop;
 	WebDriver driver;
 	Page page;
 	ExcelReader excelReader;
@@ -36,11 +38,22 @@ public class BaseTest {
 		String log4jConfigFile = System.getProperty("user.dir") + "\\resources\\log4j.properties";
 		PropertyConfigurator.configure(log4jConfigFile);
 		excelReader = new ExcelReader(excelReader.filePath);	
+	
+		try {
+			prop=new Properties();
+			FileInputStream fis = new FileInputStream(System.getProperty("user.dir") + "\\resources\\config.properties");
+			prop.load(fis);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	@BeforeMethod
-	@Parameters(value = { "browser" })
-	public void setUpTest(String browser) {
+	//@Parameters(value = { "browser" })
+	public void setUpTest() {
+		String browser = prop.getProperty("browser");
 		if (browser.equals("chrome")) {
 		
 			
@@ -76,7 +89,7 @@ public class BaseTest {
 	@AfterMethod
 	public void tearDown() {
 		logger.info("Driver close");
-		driver.quit();
+	//	driver.quit();
 		logger.info("Test script complete");
 	}
 }

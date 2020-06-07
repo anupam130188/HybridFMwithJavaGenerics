@@ -2296,3 +2296,212 @@
 2019-12-08 22:41:31 INFO  LoginTest:61 - HomePage header is: Welcome Admin
 2019-12-08 22:41:31 INFO  BaseTest:78 - Driver close
 2019-12-08 22:41:32 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:06:52 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:06:59 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:06:59 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:07:02 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:07:02 INFO  LoginTest:33 - Title is: OrangeHRM
+2019-12-09 16:07:02 INFO  BaseTest:78 - Driver close
+2019-12-09 16:07:03 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:07:06 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:07:06 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:07:09 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:07:09 INFO  LoginTest:41 - Header is: OrangeHRM, Inc
+2019-12-09 16:07:09 INFO  BaseTest:78 - Driver close
+2019-12-09 16:07:11 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:07:13 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:07:14 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:07:17 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:07:17 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:07:17 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:07:22 INFO  LoginTest:51 - HomePage header is: Welcome Admin
+2019-12-09 16:07:22 INFO  BaseTest:78 - Driver close
+2019-12-09 16:07:23 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:07:23 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:07:25 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:07:25 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:07:28 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:07:32 INFO  LoginTest:61 - HomePage header is: Welcome Admin
+2019-12-09 16:07:32 INFO  BaseTest:78 - Driver close
+2019-12-09 16:07:34 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:08:00 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:08:00 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:08:04 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:08:04 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:08:08 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:08:08 INFO  LoginTest:33 - Title is: OrangeHRM
+2019-12-09 16:08:08 INFO  BaseTest:78 - Driver close
+2019-12-09 16:08:09 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:08:12 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:08:12 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:08:16 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:08:16 INFO  LoginTest:41 - Header is: OrangeHRM, Inc
+2019-12-09 16:08:16 INFO  BaseTest:78 - Driver close
+2019-12-09 16:08:17 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:08:19 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:08:20 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:08:24 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:08:24 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:08:24 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:08:28 INFO  LoginTest:51 - HomePage header is: Welcome Admin
+2019-12-09 16:08:28 INFO  BaseTest:78 - Driver close
+2019-12-09 16:08:29 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:08:29 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:08:32 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:08:32 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:08:35 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:08:40 INFO  LoginTest:61 - HomePage header is: Welcome Admin
+2019-12-09 16:08:40 INFO  BaseTest:78 - Driver close
+2019-12-09 16:08:41 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:08:41 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:08:43 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:08:43 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:08:47 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:08:47 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:08:47 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:08:51 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2019-12-09 16:08:58 INFO  BaseTest:78 - Driver close
+2019-12-09 16:09:00 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:09:00 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:09:02 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:09:02 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:09:05 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:09:05 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:09:05 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:09:10 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2019-12-09 16:09:17 INFO  BaseTest:78 - Driver close
+2019-12-09 16:09:19 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:11:29 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:11:29 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:11:33 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:11:33 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:11:37 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:11:37 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:11:37 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:11:39 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2019-12-09 16:11:44 INFO  BaseTest:78 - Driver close
+2019-12-09 16:11:45 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:11:45 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:11:48 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:11:48 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:11:52 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:11:52 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:11:52 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:11:54 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2019-12-09 16:11:59 INFO  BaseTest:78 - Driver close
+2019-12-09 16:12:00 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:33:32 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:33:32 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:33:37 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:33:37 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:33:40 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:33:40 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:33:40 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:33:47 INFO  BaseTest:78 - Driver close
+2019-12-09 16:33:47 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:33:47 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:33:49 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:33:49 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:33:53 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:33:53 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:33:53 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:33:59 INFO  BaseTest:78 - Driver close
+2019-12-09 16:33:59 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:35:02 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:35:02 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:35:06 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:35:06 INFO  BaseTest:65 - Opening Orange HRM url
+2019-12-09 16:35:11 INFO  BaseTest:68 - Maximizing window
+2019-12-09 16:35:11 INFO  ExcelReader:49 - data value from excel is: admin
+2019-12-09 16:35:11 INFO  ExcelReader:49 - data value from excel is: admin123
+2019-12-09 16:35:17 INFO  BaseTest:78 - Driver close
+2019-12-09 16:35:17 INFO  BaseTest:80 - Test script complete
+2019-12-09 16:35:17 INFO  ExcelReader:34 - Workbook loaded
+2019-12-09 16:35:20 INFO  BaseTest:52 - Chrome driver initialized
+2019-12-09 16:35:20 INFO  BaseTest:65 - Opening Orange HRM url
+2020-06-06 15:38:55 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 15:38:56 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 15:39:16 INFO  BaseTest:52 - Chrome driver initialized
+2020-06-06 15:39:16 INFO  BaseTest:65 - Opening Orange HRM url
+2020-06-06 15:39:20 INFO  BaseTest:68 - Maximizing window
+2020-06-06 15:39:20 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-06 15:39:20 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-06 15:39:25 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2020-06-06 15:39:30 INFO  BaseTest:78 - Driver close
+2020-06-06 15:39:30 INFO  BaseTest:80 - Test script complete
+2020-06-06 17:22:59 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 17:22:59 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 17:23:05 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-06 17:23:06 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-06 17:23:11 INFO  BaseTest:81 - Maximizing window
+2020-06-06 17:23:11 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-06 17:23:11 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-06 17:23:17 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2020-06-06 17:23:20 INFO  BaseTest:91 - Driver close
+2020-06-06 17:23:20 INFO  BaseTest:93 - Test script complete
+2020-06-06 17:27:11 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 17:27:11 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 17:27:18 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-06 17:27:18 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-06 17:27:23 INFO  BaseTest:81 - Maximizing window
+2020-06-06 17:27:23 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-06 17:27:23 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-06 17:27:29 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2020-06-06 17:27:33 INFO  BaseTest:91 - Driver close
+2020-06-06 17:27:33 INFO  BaseTest:93 - Test script complete
+2020-06-06 17:45:20 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 17:45:20 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 18:00:35 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 18:00:41 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-06 18:00:41 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-06 18:00:46 INFO  BaseTest:81 - Maximizing window
+2020-06-06 18:00:46 INFO  LoginTest:33 - Title is: OrangeHRM
+2020-06-06 18:00:46 INFO  BaseTest:91 - Driver close
+2020-06-06 18:00:46 INFO  BaseTest:93 - Test script complete
+2020-06-06 18:00:49 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-06 18:00:49 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-06 18:00:54 INFO  BaseTest:81 - Maximizing window
+2020-06-06 18:00:54 INFO  LoginTest:41 - Header is: OrangeHRM, Inc
+2020-06-06 18:00:54 INFO  BaseTest:91 - Driver close
+2020-06-06 18:00:54 INFO  BaseTest:93 - Test script complete
+2020-06-06 18:00:57 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-06 18:00:57 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-06 18:01:01 INFO  BaseTest:81 - Maximizing window
+2020-06-06 18:01:01 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-06 18:01:01 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-06 18:01:08 INFO  LoginTest:51 - HomePage header is: Welcome Admin
+2020-06-06 18:01:08 INFO  BaseTest:91 - Driver close
+2020-06-06 18:01:08 INFO  BaseTest:93 - Test script complete
+2020-06-06 18:01:08 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 18:01:12 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-06 18:01:12 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-06 18:01:16 INFO  BaseTest:81 - Maximizing window
+2020-06-06 18:01:23 INFO  LoginTest:61 - HomePage header is: Welcome Admin
+2020-06-06 18:01:23 INFO  BaseTest:91 - Driver close
+2020-06-06 18:01:23 INFO  BaseTest:93 - Test script complete
+2020-06-06 18:15:34 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 18:15:34 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 18:15:40 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-06 18:15:40 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-06 18:25:07 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 18:25:07 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 18:25:13 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-06 18:25:13 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-06 18:25:18 INFO  BaseTest:81 - Maximizing window
+2020-06-06 18:25:18 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-06 18:25:18 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-06 18:25:25 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2020-06-06 18:25:29 INFO  BaseTest:91 - Driver close
+2020-06-06 18:25:29 INFO  BaseTest:93 - Test script complete
+2020-06-06 18:55:45 INFO  ExcelReader:34 - Workbook loaded
+2020-06-06 18:55:45 INFO  ExcelReader:34 - Workbook loaded
+2020-06-07 08:35:30 INFO  ExcelReader:34 - Workbook loaded
+2020-06-07 08:35:30 INFO  ExcelReader:34 - Workbook loaded
+2020-06-07 08:35:36 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-07 08:35:36 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-07 08:35:41 INFO  BaseTest:81 - Maximizing window
+2020-06-07 08:35:41 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-07 08:35:41 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-07 08:35:48 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2020-06-07 08:35:52 INFO  BaseTest:91 - Driver close
+2020-06-07 08:35:52 INFO  BaseTest:93 - Test script complete

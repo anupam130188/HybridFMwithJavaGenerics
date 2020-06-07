@@ -7,13 +7,13 @@
   <test thread-count="2" verbose="10" name="Orange HRM tests on chrome(failed)" parallel="tests">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.orangehrm.Tests.LoginTest">
+      <class name="com.orangehrm.Tests.HomePageTest">
         <methods>
           <include name="setUpTest"/>
           <include name="tearDown"/>
-          <include name="verifyLoginDataTest" invocation-numbers="1 1"/>
+          <include name="verifyUserNameTest" invocation-numbers="0 0"/>
         </methods>
-      </class> <!-- com.orangehrm.Tests.LoginTest -->
+      </class> <!-- com.orangehrm.Tests.HomePageTest -->
     </classes>
   </test> <!-- Orange HRM tests on chrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->
