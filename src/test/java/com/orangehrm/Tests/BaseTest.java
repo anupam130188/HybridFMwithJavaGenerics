@@ -89,7 +89,7 @@ public class BaseTest {
 	@AfterMethod
 	public void tearDown() {
 		logger.info("Driver close");
-	//	driver.quit();
+		driver.quit();
 		logger.info("Test script complete");
 	}
 }
