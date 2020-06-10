@@ -1,53 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="48464" started-at="2020-06-06T12:30:35Z" finished-at="2020-06-06T12:31:23Z">
+  <suite name="Suite" duration-ms="22762" started-at="2020-06-10T04:27:53Z" finished-at="2020-06-10T04:28:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="48464" started-at="2020-06-06T12:30:35Z" finished-at="2020-06-06T12:31:23Z">
-      <class name="com.orangehrm.Tests.LoginTest">
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="setUpTest" is-config="true" duration-ms="11208" started-at="2020-06-06T12:30:35Z" finished-at="2020-06-06T12:30:46Z">
+    <test name="Orange HRM tests on chrome" duration-ms="22762" started-at="2020-06-10T04:27:53Z" finished-at="2020-06-10T04:28:15Z">
+      <class name="com.orangehrm.Tests.HomePageTest">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.orangehrm.Tests.HomePageTest@7b02881e]" name="setUpTest" is-config="true" duration-ms="9430" started-at="2020-06-10T04:27:53Z" finished-at="2020-06-10T04:28:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="verifyLoginPageTitleTest" duration-ms="25" started-at="2020-06-06T12:30:46Z" finished-at="2020-06-06T12:30:46Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLoginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-06-06T12:30:46Z" finished-at="2020-06-06T12:30:46Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="setUpTest" is-config="true" duration-ms="7597" started-at="2020-06-06T12:30:46Z" finished-at="2020-06-06T12:30:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="verifyLoginPageHeaderTest()[pri:2, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="verifyLoginPageHeaderTest" duration-ms="73" started-at="2020-06-06T12:30:54Z" finished-at="2020-06-06T12:30:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLoginPageHeaderTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-06-06T12:30:54Z" finished-at="2020-06-06T12:30:54Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="setUpTest" is-config="true" duration-ms="7703" started-at="2020-06-06T12:30:54Z" finished-at="2020-06-06T12:31:01Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="verifyLoginTest()[pri:3, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="verifyLoginTest" duration-ms="6912" started-at="2020-06-06T12:31:01Z" finished-at="2020-06-06T12:31:08Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-06-06T12:31:08Z" finished-at="2020-06-06T12:31:08Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="setUpTest" is-config="true" duration-ms="7556" started-at="2020-06-06T12:31:08Z" finished-at="2020-06-06T12:31:16Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpTest -->
-        <test-method status="PASS" signature="verifyLoginDataTest(java.lang.String, java.lang.String)[pri:4, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="verifyLoginDataTest" duration-ms="7270" started-at="2020-06-06T12:31:16Z" data-provider="getTestData" finished-at="2020-06-06T12:31:23Z">
+        <test-method status="PASS" signature="verifyUserNameTest(java.lang.String, java.lang.String)[pri:4, instance:com.orangehrm.Tests.HomePageTest@7b02881e]" name="verifyUserNameTest" duration-ms="11920" started-at="2020-06-10T04:28:02Z" data-provider="getTestData" finished-at="2020-06-10T04:28:14Z">
           <params>
             <param index="0">
               <value>
@@ -62,12 +26,12 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLoginDataTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.LoginTest@15ca7889]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-06-06T12:31:23Z" finished-at="2020-06-06T12:31:23Z">
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangehrm.Tests.HomePageTest@7b02881e]" name="tearDown" is-config="true" duration-ms="1307" started-at="2020-06-10T04:28:14Z" finished-at="2020-06-10T04:28:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.orangehrm.Tests.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.orangehrm.Tests.HomePageTest -->
+    </test> <!-- Orange HRM tests on chrome -->
+  </suite> <!-- Suite -->
 </testng-results>
