@@ -2861,3 +2861,33 @@
 2020-06-13 11:00:20 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
 2020-06-13 11:00:23 INFO  BaseTest:91 - Driver close
 2020-06-13 11:00:25 INFO  BaseTest:93 - Test script complete
+2020-06-13 11:07:13 INFO  ExcelReader:34 - Workbook loaded
+2020-06-13 11:07:13 INFO  ExcelReader:34 - Workbook loaded
+2020-06-13 11:07:19 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-13 11:07:19 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-13 11:07:26 INFO  BaseTest:81 - Maximizing window
+2020-06-13 11:07:26 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-13 11:07:26 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-13 11:07:32 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2020-06-13 11:07:37 INFO  BaseTest:91 - Driver close
+2020-06-13 11:07:39 INFO  BaseTest:93 - Test script complete
+2020-06-13 11:23:45 INFO  ExcelReader:34 - Workbook loaded
+2020-06-13 11:23:45 INFO  ExcelReader:34 - Workbook loaded
+2020-06-13 11:23:50 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-13 11:23:50 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-13 11:23:55 INFO  BaseTest:81 - Maximizing window
+2020-06-13 11:23:55 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-13 11:23:55 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-13 11:24:02 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2020-06-13 11:24:04 INFO  BaseTest:91 - Driver close
+2020-06-13 11:24:06 INFO  BaseTest:93 - Test script complete
+2020-06-13 13:11:49 INFO  ExcelReader:34 - Workbook loaded
+2020-06-13 13:11:49 INFO  ExcelReader:34 - Workbook loaded
+2020-06-13 13:11:55 INFO  BaseTest:65 - Chrome driver initialized
+2020-06-13 13:11:55 INFO  BaseTest:78 - Opening Orange HRM url
+2020-06-13 13:11:59 INFO  BaseTest:81 - Maximizing window
+2020-06-13 13:11:59 INFO  ExcelReader:49 - data value from excel is: admin
+2020-06-13 13:11:59 INFO  ExcelReader:49 - data value from excel is: admin123
+2020-06-13 13:12:05 INFO  HomePageTest:38 - HomePage header is: Welcome Admin
+2020-06-13 13:12:09 INFO  BaseTest:91 - Driver close
+2020-06-13 13:12:10 INFO  BaseTest:93 - Test script complete
