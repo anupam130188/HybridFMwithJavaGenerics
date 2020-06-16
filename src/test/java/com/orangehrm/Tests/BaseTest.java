@@ -62,7 +62,7 @@ public class BaseTest {
 			options.addArguments("--lang=en");
 			driver = new ChromeDriver(options);
 			
-			logger.info("Chrome driver initialized");
+			logger.info("Chrome driver initialized1");
 	//		driver = new ChromeDriver();
 		} else if (browser.equals("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
