@@ -12,7 +12,7 @@ public class HomePage extends BasePage {
 
 	private By userName = By.xpath("//*[@id='searchSystemUser_userName']");
 	private By searchBtn = By.id("searchBtn");
-	private By userValue = By.xpath("//table[@id='resultTable']//td//a");
+	private By userValue = By.xpath("//table[@id='resultTable']//td");
 
 	public HomePage(WebDriver driver) {
 		super(driver);
