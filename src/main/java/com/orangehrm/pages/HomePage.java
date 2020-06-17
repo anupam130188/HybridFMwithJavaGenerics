@@ -50,7 +50,14 @@ public class HomePage extends BasePage {
 	 * @return the userValue
 	 */
 	public WebElement getUserValue() {
-		return getElement(userValue);
+		WebElement e = null;
+		try {
+			e = getElement(userValue);
+		} catch (Exception e1) {
+			System.out.println("No record found");
+			e1.printStackTrace();
+		} 
+		return e;
 	}
 
 	/**
@@ -75,7 +82,7 @@ public class HomePage extends BasePage {
 		getUserName().sendKeys("hannah.flores");
 		getSearchBtn().click();
 		String userName = getUserValue().getText();
-		System.out.println("userName " + userName);
+		System.out.println("userName found is: " + userName);
 		return getInstance(ContactsPage.class);
 
 	}
