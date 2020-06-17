@@ -54,7 +54,8 @@ public class HomePage extends BasePage {
 		try {
 			e = getElement(userValue);
 		} catch (Exception e1) {
-			System.out.println("No record found ");
+
+			System.out.println("No record found");
 			e1.printStackTrace();
 		} 
 		return e;
